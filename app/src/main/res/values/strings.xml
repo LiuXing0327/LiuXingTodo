@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">践行</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="todo">待办事项</string>
+    <string name="delete">删除</string>
+</resources>
